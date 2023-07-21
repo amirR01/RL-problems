@@ -1,2 +1,5 @@
 # RL-problems
-using Q-learning in 2 environment
+**Using *Q-learning* in 2 environment**
+- FrozenLake Environment
+- Mountain Car Environment
+
